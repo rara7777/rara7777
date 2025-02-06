@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a full stack developer!
+
 <!--
 **rara7777/rara7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Programming Language and Tools
+![image](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
+![image](https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg)
+![image](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+![image](https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg)
+![image](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+![image](https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg)
+![image](https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg)
+![image](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![image](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+
